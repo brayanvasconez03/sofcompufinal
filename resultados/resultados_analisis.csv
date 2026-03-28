@@ -1,0 +1,301 @@
+texto,etiqueta_real,texto_limpio,score_pos,score_neg,score_neu,score_compound,sentimiento_vader
+"Horrible experience, took weeks to arrive broken",Negativo,horrible experience took weeks to arrive broken,0.0,0.569,0.431,-0.765,Negativo
+"Disgusting service, rude staff and no refund given",Negativo,disgusting service rude staff and no refund given,0.0,0.632,0.368,-0.8225,Negativo
+"Worst purchase ever, complete waste of my money",Negativo,worst purchase ever complete waste of my money,0.0,0.535,0.465,-0.7845,Negativo
+"Perfect gift, arrived on time and well packaged",Positivo,perfect gift arrived on time and well packaged,0.635,0.0,0.365,0.8271,Positivo
+"Horrible experience, took weeks to arrive broken",Negativo,horrible experience took weeks to arrive broken,0.0,0.569,0.431,-0.765,Negativo
+"Very disappointed, not as described and poor quality",Negativo,very disappointed not as described and poor quality,0.0,0.52,0.48,-0.7574,Negativo
+"Very disappointed, not as described and poor quality",Negativo,very disappointed not as described and poor quality,0.0,0.52,0.48,-0.7574,Negativo
+So happy with my order! Will definitely buy again,Positivo,so happy with my order will definitely buy again,0.489,0.0,0.511,0.7713,Positivo
+"Outstanding quality, worth every penny spent here",Positivo,outstanding quality worth every penny spent here,0.541,0.0,0.459,0.7096,Positivo
+"Poor quality materials, fell apart immediately after",Negativo,poor quality materials fell apart immediately after,0.0,0.341,0.659,-0.4767,Negativo
+"Broken on arrival, seller refused to help me",Negativo,broken on arrival seller refused to help me,0.208,0.408,0.385,-0.3818,Negativo
+"Super satisfied with this purchase, very good",Positivo,super satisfied with this purchase very good,0.712,0.0,0.288,0.8718,Positivo
+"Horrible experience, took weeks to arrive broken",Negativo,horrible experience took weeks to arrive broken,0.0,0.569,0.431,-0.765,Negativo
+"I love this product, absolutely amazing quality!",Positivo,i love this product absolutely amazing quality,0.624,0.0,0.376,0.8516,Positivo
+"Worst purchase ever, complete waste of my money",Negativo,worst purchase ever complete waste of my money,0.0,0.535,0.465,-0.7845,Negativo
+"Disgusting service, rude staff and no refund given",Negativo,disgusting service rude staff and no refund given,0.0,0.632,0.368,-0.8225,Negativo
+Product arrived damaged and packaging was destroyed,Negativo,product arrived damaged and packaging was destroyed,0.0,0.55,0.45,-0.7269,Negativo
+"Very disappointed, not as described and poor quality",Negativo,very disappointed not as described and poor quality,0.0,0.52,0.48,-0.7574,Negativo
+"The product works perfectly, happy customer here",Positivo,the product works perfectly happy customer here,0.612,0.0,0.388,0.836,Positivo
+"Terrible product, broke after just two days of use",Negativo,terrible product broke after just two days of use,0.0,0.457,0.543,-0.7096,Negativo
+"This exceeded all my expectations, wonderful experience",Positivo,this exceeded all my expectations wonderful experience,0.381,0.0,0.619,0.5719,Positivo
+"Amazing product, my family loves it so much",Positivo,amazing product my family loves it so much,0.556,0.0,0.444,0.8176,Positivo
+"Do not buy this, total scam and waste of money",Negativo,do not buy this total scam and waste of money,0.0,0.469,0.531,-0.7939,Negativo
+"Poor quality materials, fell apart immediately after",Negativo,poor quality materials fell apart immediately after,0.0,0.341,0.659,-0.4767,Negativo
+Excellent quality and great value for the price,Positivo,excellent quality and great value for the price,0.671,0.0,0.329,0.8807,Positivo
+"Super satisfied with this purchase, very good",Positivo,super satisfied with this purchase very good,0.712,0.0,0.288,0.8718,Positivo
+"Disgusting service, rude staff and no refund given",Negativo,disgusting service rude staff and no refund given,0.0,0.632,0.368,-0.8225,Negativo
+"Poor quality materials, fell apart immediately after",Negativo,poor quality materials fell apart immediately after,0.0,0.341,0.659,-0.4767,Negativo
+Extremely disappointed with this purchase overall,Negativo,extremely disappointed with this purchase overall,0.0,0.404,0.596,-0.5256,Negativo
+Terrible smell and the color was completely wrong,Negativo,terrible smell and the color was completely wrong,0.0,0.52,0.48,-0.7574,Negativo
+"Great customer service and fast shipping, very happy",Positivo,great customer service and fast shipping very happy,0.574,0.0,0.426,0.8439,Positivo
+"Never again, worst online shopping experience ever",Negativo,never again worst online shopping experience ever,0.354,0.0,0.646,0.5096,Positivo
+"This exceeded all my expectations, wonderful experience",Positivo,this exceeded all my expectations wonderful experience,0.381,0.0,0.619,0.5719,Positivo
+"Perfect gift, arrived on time and well packaged",Positivo,perfect gift arrived on time and well packaged,0.635,0.0,0.365,0.8271,Positivo
+"Completely useless, does not work at all period",Negativo,completely useless does not work at all period,0.0,0.306,0.694,-0.4754,Negativo
+Excellent quality and great value for the price,Positivo,excellent quality and great value for the price,0.671,0.0,0.329,0.8807,Positivo
+Really impressed with the quality and fast delivery,Positivo,really impressed with the quality and fast delivery,0.326,0.0,0.674,0.5256,Positivo
+"I love this product, absolutely amazing quality!",Positivo,i love this product absolutely amazing quality,0.624,0.0,0.376,0.8516,Positivo
+"Best purchase I've made this year, highly recommend!",Positivo,best purchase ive made this year highly recommend,0.538,0.0,0.462,0.7902,Positivo
+"The product works perfectly, happy customer here",Positivo,the product works perfectly happy customer here,0.612,0.0,0.388,0.836,Positivo
+"This exceeded all my expectations, wonderful experience",Positivo,this exceeded all my expectations wonderful experience,0.381,0.0,0.619,0.5719,Positivo
+"Best purchase I've made this year, highly recommend!",Positivo,best purchase ive made this year highly recommend,0.538,0.0,0.462,0.7902,Positivo
+"Very disappointed, not as described and poor quality",Negativo,very disappointed not as described and poor quality,0.0,0.52,0.48,-0.7574,Negativo
+"I love this product, absolutely amazing quality!",Positivo,i love this product absolutely amazing quality,0.624,0.0,0.376,0.8516,Positivo
+"Great customer service and fast shipping, very happy",Positivo,great customer service and fast shipping very happy,0.574,0.0,0.426,0.8439,Positivo
+"This exceeded all my expectations, wonderful experience",Positivo,this exceeded all my expectations wonderful experience,0.381,0.0,0.619,0.5719,Positivo
+"Do not buy this, total scam and waste of money",Negativo,do not buy this total scam and waste of money,0.0,0.469,0.531,-0.7939,Negativo
+Product arrived damaged and packaging was destroyed,Negativo,product arrived damaged and packaging was destroyed,0.0,0.55,0.45,-0.7269,Negativo
+"Fantastic product, exactly as described and beautiful",Positivo,fantastic product exactly as described and beautiful,0.6,0.0,0.4,0.8176,Positivo
+"Very bad quality, nothing like the photos shown",Negativo,very bad quality nothing like the photos shown,0.0,0.496,0.504,-0.7098,Negativo
+"Terrible product, broke after just two days of use",Negativo,terrible product broke after just two days of use,0.0,0.457,0.543,-0.7096,Negativo
+"Perfect gift, arrived on time and well packaged",Positivo,perfect gift arrived on time and well packaged,0.635,0.0,0.365,0.8271,Positivo
+"Never again, worst online shopping experience ever",Negativo,never again worst online shopping experience ever,0.354,0.0,0.646,0.5096,Positivo
+"I love this product, absolutely amazing quality!",Positivo,i love this product absolutely amazing quality,0.624,0.0,0.376,0.8516,Positivo
+"Broken on arrival, seller refused to help me",Negativo,broken on arrival seller refused to help me,0.208,0.408,0.385,-0.3818,Negativo
+"Horrible experience, took weeks to arrive broken",Negativo,horrible experience took weeks to arrive broken,0.0,0.569,0.431,-0.765,Negativo
+Really impressed with the quality and fast delivery,Positivo,really impressed with the quality and fast delivery,0.326,0.0,0.674,0.5256,Positivo
+"Great customer service and fast shipping, very happy",Positivo,great customer service and fast shipping very happy,0.574,0.0,0.426,0.8439,Positivo
+"Broken on arrival, seller refused to help me",Negativo,broken on arrival seller refused to help me,0.208,0.408,0.385,-0.3818,Negativo
+"Incredible service, will be back for more soon",Positivo,incredible service will be back for more soon,0.0,0.0,1.0,0.0,Neutro
+Extremely disappointed with this purchase overall,Negativo,extremely disappointed with this purchase overall,0.0,0.404,0.596,-0.5256,Negativo
+Excellent quality and great value for the price,Positivo,excellent quality and great value for the price,0.671,0.0,0.329,0.8807,Positivo
+"Fantastic product, exactly as described and beautiful",Positivo,fantastic product exactly as described and beautiful,0.6,0.0,0.4,0.8176,Positivo
+"Completely useless, does not work at all period",Negativo,completely useless does not work at all period,0.0,0.306,0.694,-0.4754,Negativo
+"Horrible experience, took weeks to arrive broken",Negativo,horrible experience took weeks to arrive broken,0.0,0.569,0.431,-0.765,Negativo
+"I love this product, absolutely amazing quality!",Positivo,i love this product absolutely amazing quality,0.624,0.0,0.376,0.8516,Positivo
+Really impressed with the quality and fast delivery,Positivo,really impressed with the quality and fast delivery,0.326,0.0,0.674,0.5256,Positivo
+"Very disappointed, not as described and poor quality",Negativo,very disappointed not as described and poor quality,0.0,0.52,0.48,-0.7574,Negativo
+Absolutely love it! Best decision I have made,Positivo,absolutely love it best decision i have made,0.599,0.0,0.401,0.8737,Positivo
+"Very bad quality, nothing like the photos shown",Negativo,very bad quality nothing like the photos shown,0.0,0.496,0.504,-0.7098,Negativo
+"This exceeded all my expectations, wonderful experience",Positivo,this exceeded all my expectations wonderful experience,0.381,0.0,0.619,0.5719,Positivo
+"Fantastic product, exactly as described and beautiful",Positivo,fantastic product exactly as described and beautiful,0.6,0.0,0.4,0.8176,Positivo
+"Completely useless, does not work at all period",Negativo,completely useless does not work at all period,0.0,0.306,0.694,-0.4754,Negativo
+Terrible smell and the color was completely wrong,Negativo,terrible smell and the color was completely wrong,0.0,0.52,0.48,-0.7574,Negativo
+"Perfect gift, arrived on time and well packaged",Positivo,perfect gift arrived on time and well packaged,0.635,0.0,0.365,0.8271,Positivo
+"Broken on arrival, seller refused to help me",Negativo,broken on arrival seller refused to help me,0.208,0.408,0.385,-0.3818,Negativo
+Really impressed with the quality and fast delivery,Positivo,really impressed with the quality and fast delivery,0.326,0.0,0.674,0.5256,Positivo
+"Perfect gift, arrived on time and well packaged",Positivo,perfect gift arrived on time and well packaged,0.635,0.0,0.365,0.8271,Positivo
+"Fantastic product, exactly as described and beautiful",Positivo,fantastic product exactly as described and beautiful,0.6,0.0,0.4,0.8176,Positivo
+"Awful customer service, they never responded to me",Negativo,awful customer service they never responded to me,0.0,0.3,0.7,-0.4588,Negativo
+Terrible smell and the color was completely wrong,Negativo,terrible smell and the color was completely wrong,0.0,0.52,0.48,-0.7574,Negativo
+Product arrived damaged and packaging was destroyed,Negativo,product arrived damaged and packaging was destroyed,0.0,0.55,0.45,-0.7269,Negativo
+So happy with my order! Will definitely buy again,Positivo,so happy with my order will definitely buy again,0.489,0.0,0.511,0.7713,Positivo
+So happy with my order! Will definitely buy again,Positivo,so happy with my order will definitely buy again,0.489,0.0,0.511,0.7713,Positivo
+So happy with my order! Will definitely buy again,Positivo,so happy with my order will definitely buy again,0.489,0.0,0.511,0.7713,Positivo
+"Perfect gift, arrived on time and well packaged",Positivo,perfect gift arrived on time and well packaged,0.635,0.0,0.365,0.8271,Positivo
+"The product works perfectly, happy customer here",Positivo,the product works perfectly happy customer here,0.612,0.0,0.388,0.836,Positivo
+"Super satisfied with this purchase, very good",Positivo,super satisfied with this purchase very good,0.712,0.0,0.288,0.8718,Positivo
+"I love this product, absolutely amazing quality!",Positivo,i love this product absolutely amazing quality,0.624,0.0,0.376,0.8516,Positivo
+"Incredible service, will be back for more soon",Positivo,incredible service will be back for more soon,0.0,0.0,1.0,0.0,Neutro
+"Never again, worst online shopping experience ever",Negativo,never again worst online shopping experience ever,0.354,0.0,0.646,0.5096,Positivo
+Absolutely love it! Best decision I have made,Positivo,absolutely love it best decision i have made,0.599,0.0,0.401,0.8737,Positivo
+"Amazing product, my family loves it so much",Positivo,amazing product my family loves it so much,0.556,0.0,0.444,0.8176,Positivo
+"Never again, worst online shopping experience ever",Negativo,never again worst online shopping experience ever,0.354,0.0,0.646,0.5096,Positivo
+Really impressed with the quality and fast delivery,Positivo,really impressed with the quality and fast delivery,0.326,0.0,0.674,0.5256,Positivo
+"Best purchase I've made this year, highly recommend!",Positivo,best purchase ive made this year highly recommend,0.538,0.0,0.462,0.7902,Positivo
+"Never again, worst online shopping experience ever",Negativo,never again worst online shopping experience ever,0.354,0.0,0.646,0.5096,Positivo
+"Super satisfied with this purchase, very good",Positivo,super satisfied with this purchase very good,0.712,0.0,0.288,0.8718,Positivo
+Product arrived damaged and packaging was destroyed,Negativo,product arrived damaged and packaging was destroyed,0.0,0.55,0.45,-0.7269,Negativo
+Really impressed with the quality and fast delivery,Positivo,really impressed with the quality and fast delivery,0.326,0.0,0.674,0.5256,Positivo
+"Awful customer service, they never responded to me",Negativo,awful customer service they never responded to me,0.0,0.3,0.7,-0.4588,Negativo
+"Perfect gift, arrived on time and well packaged",Positivo,perfect gift arrived on time and well packaged,0.635,0.0,0.365,0.8271,Positivo
+"Best purchase I've made this year, highly recommend!",Positivo,best purchase ive made this year highly recommend,0.538,0.0,0.462,0.7902,Positivo
+"Awful customer service, they never responded to me",Negativo,awful customer service they never responded to me,0.0,0.3,0.7,-0.4588,Negativo
+"Poor quality materials, fell apart immediately after",Negativo,poor quality materials fell apart immediately after,0.0,0.341,0.659,-0.4767,Negativo
+"Terrible product, broke after just two days of use",Negativo,terrible product broke after just two days of use,0.0,0.457,0.543,-0.7096,Negativo
+"Outstanding quality, worth every penny spent here",Positivo,outstanding quality worth every penny spent here,0.541,0.0,0.459,0.7096,Positivo
+"This exceeded all my expectations, wonderful experience",Positivo,this exceeded all my expectations wonderful experience,0.381,0.0,0.619,0.5719,Positivo
+"Very disappointed, not as described and poor quality",Negativo,very disappointed not as described and poor quality,0.0,0.52,0.48,-0.7574,Negativo
+"Fantastic product, exactly as described and beautiful",Positivo,fantastic product exactly as described and beautiful,0.6,0.0,0.4,0.8176,Positivo
+"Super satisfied with this purchase, very good",Positivo,super satisfied with this purchase very good,0.712,0.0,0.288,0.8718,Positivo
+Extremely disappointed with this purchase overall,Negativo,extremely disappointed with this purchase overall,0.0,0.404,0.596,-0.5256,Negativo
+Absolutely love it! Best decision I have made,Positivo,absolutely love it best decision i have made,0.599,0.0,0.401,0.8737,Positivo
+"Horrible experience, took weeks to arrive broken",Negativo,horrible experience took weeks to arrive broken,0.0,0.569,0.431,-0.765,Negativo
+"Completely useless, does not work at all period",Negativo,completely useless does not work at all period,0.0,0.306,0.694,-0.4754,Negativo
+Absolutely love it! Best decision I have made,Positivo,absolutely love it best decision i have made,0.599,0.0,0.401,0.8737,Positivo
+Absolutely love it! Best decision I have made,Positivo,absolutely love it best decision i have made,0.599,0.0,0.401,0.8737,Positivo
+Extremely disappointed with this purchase overall,Negativo,extremely disappointed with this purchase overall,0.0,0.404,0.596,-0.5256,Negativo
+"Worst purchase ever, complete waste of my money",Negativo,worst purchase ever complete waste of my money,0.0,0.535,0.465,-0.7845,Negativo
+"Disgusting service, rude staff and no refund given",Negativo,disgusting service rude staff and no refund given,0.0,0.632,0.368,-0.8225,Negativo
+"Incredible service, will be back for more soon",Positivo,incredible service will be back for more soon,0.0,0.0,1.0,0.0,Neutro
+Extremely disappointed with this purchase overall,Negativo,extremely disappointed with this purchase overall,0.0,0.404,0.596,-0.5256,Negativo
+Product arrived damaged and packaging was destroyed,Negativo,product arrived damaged and packaging was destroyed,0.0,0.55,0.45,-0.7269,Negativo
+"Worst purchase ever, complete waste of my money",Negativo,worst purchase ever complete waste of my money,0.0,0.535,0.465,-0.7845,Negativo
+So happy with my order! Will definitely buy again,Positivo,so happy with my order will definitely buy again,0.489,0.0,0.511,0.7713,Positivo
+Terrible smell and the color was completely wrong,Negativo,terrible smell and the color was completely wrong,0.0,0.52,0.48,-0.7574,Negativo
+"Amazing product, my family loves it so much",Positivo,amazing product my family loves it so much,0.556,0.0,0.444,0.8176,Positivo
+"Outstanding quality, worth every penny spent here",Positivo,outstanding quality worth every penny spent here,0.541,0.0,0.459,0.7096,Positivo
+"Terrible product, broke after just two days of use",Negativo,terrible product broke after just two days of use,0.0,0.457,0.543,-0.7096,Negativo
+Terrible smell and the color was completely wrong,Negativo,terrible smell and the color was completely wrong,0.0,0.52,0.48,-0.7574,Negativo
+"Great customer service and fast shipping, very happy",Positivo,great customer service and fast shipping very happy,0.574,0.0,0.426,0.8439,Positivo
+Really impressed with the quality and fast delivery,Positivo,really impressed with the quality and fast delivery,0.326,0.0,0.674,0.5256,Positivo
+"Awful customer service, they never responded to me",Negativo,awful customer service they never responded to me,0.0,0.3,0.7,-0.4588,Negativo
+"Super satisfied with this purchase, very good",Positivo,super satisfied with this purchase very good,0.712,0.0,0.288,0.8718,Positivo
+Extremely disappointed with this purchase overall,Negativo,extremely disappointed with this purchase overall,0.0,0.404,0.596,-0.5256,Negativo
+"Very disappointed, not as described and poor quality",Negativo,very disappointed not as described and poor quality,0.0,0.52,0.48,-0.7574,Negativo
+"Completely useless, does not work at all period",Negativo,completely useless does not work at all period,0.0,0.306,0.694,-0.4754,Negativo
+"Disgusting service, rude staff and no refund given",Negativo,disgusting service rude staff and no refund given,0.0,0.632,0.368,-0.8225,Negativo
+Terrible smell and the color was completely wrong,Negativo,terrible smell and the color was completely wrong,0.0,0.52,0.48,-0.7574,Negativo
+"Great customer service and fast shipping, very happy",Positivo,great customer service and fast shipping very happy,0.574,0.0,0.426,0.8439,Positivo
+"Incredible service, will be back for more soon",Positivo,incredible service will be back for more soon,0.0,0.0,1.0,0.0,Neutro
+"Amazing product, my family loves it so much",Positivo,amazing product my family loves it so much,0.556,0.0,0.444,0.8176,Positivo
+"Broken on arrival, seller refused to help me",Negativo,broken on arrival seller refused to help me,0.208,0.408,0.385,-0.3818,Negativo
+"I love this product, absolutely amazing quality!",Positivo,i love this product absolutely amazing quality,0.624,0.0,0.376,0.8516,Positivo
+"Terrible product, broke after just two days of use",Negativo,terrible product broke after just two days of use,0.0,0.457,0.543,-0.7096,Negativo
+"Completely useless, does not work at all period",Negativo,completely useless does not work at all period,0.0,0.306,0.694,-0.4754,Negativo
+Really impressed with the quality and fast delivery,Positivo,really impressed with the quality and fast delivery,0.326,0.0,0.674,0.5256,Positivo
+Excellent quality and great value for the price,Positivo,excellent quality and great value for the price,0.671,0.0,0.329,0.8807,Positivo
+Excellent quality and great value for the price,Positivo,excellent quality and great value for the price,0.671,0.0,0.329,0.8807,Positivo
+"Amazing product, my family loves it so much",Positivo,amazing product my family loves it so much,0.556,0.0,0.444,0.8176,Positivo
+"Never again, worst online shopping experience ever",Negativo,never again worst online shopping experience ever,0.354,0.0,0.646,0.5096,Positivo
+"Great customer service and fast shipping, very happy",Positivo,great customer service and fast shipping very happy,0.574,0.0,0.426,0.8439,Positivo
+Terrible smell and the color was completely wrong,Negativo,terrible smell and the color was completely wrong,0.0,0.52,0.48,-0.7574,Negativo
+"Horrible experience, took weeks to arrive broken",Negativo,horrible experience took weeks to arrive broken,0.0,0.569,0.431,-0.765,Negativo
+"Poor quality materials, fell apart immediately after",Negativo,poor quality materials fell apart immediately after,0.0,0.341,0.659,-0.4767,Negativo
+"Very bad quality, nothing like the photos shown",Negativo,very bad quality nothing like the photos shown,0.0,0.496,0.504,-0.7098,Negativo
+"Broken on arrival, seller refused to help me",Negativo,broken on arrival seller refused to help me,0.208,0.408,0.385,-0.3818,Negativo
+"Outstanding quality, worth every penny spent here",Positivo,outstanding quality worth every penny spent here,0.541,0.0,0.459,0.7096,Positivo
+"Awful customer service, they never responded to me",Negativo,awful customer service they never responded to me,0.0,0.3,0.7,-0.4588,Negativo
+"Incredible service, will be back for more soon",Positivo,incredible service will be back for more soon,0.0,0.0,1.0,0.0,Neutro
+"Awful customer service, they never responded to me",Negativo,awful customer service they never responded to me,0.0,0.3,0.7,-0.4588,Negativo
+"Do not buy this, total scam and waste of money",Negativo,do not buy this total scam and waste of money,0.0,0.469,0.531,-0.7939,Negativo
+"Super satisfied with this purchase, very good",Positivo,super satisfied with this purchase very good,0.712,0.0,0.288,0.8718,Positivo
+"Outstanding quality, worth every penny spent here",Positivo,outstanding quality worth every penny spent here,0.541,0.0,0.459,0.7096,Positivo
+"The product works perfectly, happy customer here",Positivo,the product works perfectly happy customer here,0.612,0.0,0.388,0.836,Positivo
+Really impressed with the quality and fast delivery,Positivo,really impressed with the quality and fast delivery,0.326,0.0,0.674,0.5256,Positivo
+"Never again, worst online shopping experience ever",Negativo,never again worst online shopping experience ever,0.354,0.0,0.646,0.5096,Positivo
+"Never again, worst online shopping experience ever",Negativo,never again worst online shopping experience ever,0.354,0.0,0.646,0.5096,Positivo
+"Completely useless, does not work at all period",Negativo,completely useless does not work at all period,0.0,0.306,0.694,-0.4754,Negativo
+"Fantastic product, exactly as described and beautiful",Positivo,fantastic product exactly as described and beautiful,0.6,0.0,0.4,0.8176,Positivo
+"Outstanding quality, worth every penny spent here",Positivo,outstanding quality worth every penny spent here,0.541,0.0,0.459,0.7096,Positivo
+Terrible smell and the color was completely wrong,Negativo,terrible smell and the color was completely wrong,0.0,0.52,0.48,-0.7574,Negativo
+Extremely disappointed with this purchase overall,Negativo,extremely disappointed with this purchase overall,0.0,0.404,0.596,-0.5256,Negativo
+Absolutely love it! Best decision I have made,Positivo,absolutely love it best decision i have made,0.599,0.0,0.401,0.8737,Positivo
+Excellent quality and great value for the price,Positivo,excellent quality and great value for the price,0.671,0.0,0.329,0.8807,Positivo
+Product arrived damaged and packaging was destroyed,Negativo,product arrived damaged and packaging was destroyed,0.0,0.55,0.45,-0.7269,Negativo
+"Best purchase I've made this year, highly recommend!",Positivo,best purchase ive made this year highly recommend,0.538,0.0,0.462,0.7902,Positivo
+Absolutely love it! Best decision I have made,Positivo,absolutely love it best decision i have made,0.599,0.0,0.401,0.8737,Positivo
+"Horrible experience, took weeks to arrive broken",Negativo,horrible experience took weeks to arrive broken,0.0,0.569,0.431,-0.765,Negativo
+"Fantastic product, exactly as described and beautiful",Positivo,fantastic product exactly as described and beautiful,0.6,0.0,0.4,0.8176,Positivo
+"Completely useless, does not work at all period",Negativo,completely useless does not work at all period,0.0,0.306,0.694,-0.4754,Negativo
+"I love this product, absolutely amazing quality!",Positivo,i love this product absolutely amazing quality,0.624,0.0,0.376,0.8516,Positivo
+Terrible smell and the color was completely wrong,Negativo,terrible smell and the color was completely wrong,0.0,0.52,0.48,-0.7574,Negativo
+"Worst purchase ever, complete waste of my money",Negativo,worst purchase ever complete waste of my money,0.0,0.535,0.465,-0.7845,Negativo
+"Incredible service, will be back for more soon",Positivo,incredible service will be back for more soon,0.0,0.0,1.0,0.0,Neutro
+Product arrived damaged and packaging was destroyed,Negativo,product arrived damaged and packaging was destroyed,0.0,0.55,0.45,-0.7269,Negativo
+"Terrible product, broke after just two days of use",Negativo,terrible product broke after just two days of use,0.0,0.457,0.543,-0.7096,Negativo
+"Very bad quality, nothing like the photos shown",Negativo,very bad quality nothing like the photos shown,0.0,0.496,0.504,-0.7098,Negativo
+"Amazing product, my family loves it so much",Positivo,amazing product my family loves it so much,0.556,0.0,0.444,0.8176,Positivo
+"Fantastic product, exactly as described and beautiful",Positivo,fantastic product exactly as described and beautiful,0.6,0.0,0.4,0.8176,Positivo
+"Best purchase I've made this year, highly recommend!",Positivo,best purchase ive made this year highly recommend,0.538,0.0,0.462,0.7902,Positivo
+"Terrible product, broke after just two days of use",Negativo,terrible product broke after just two days of use,0.0,0.457,0.543,-0.7096,Negativo
+"Disgusting service, rude staff and no refund given",Negativo,disgusting service rude staff and no refund given,0.0,0.632,0.368,-0.8225,Negativo
+Extremely disappointed with this purchase overall,Negativo,extremely disappointed with this purchase overall,0.0,0.404,0.596,-0.5256,Negativo
+"Worst purchase ever, complete waste of my money",Negativo,worst purchase ever complete waste of my money,0.0,0.535,0.465,-0.7845,Negativo
+Absolutely love it! Best decision I have made,Positivo,absolutely love it best decision i have made,0.599,0.0,0.401,0.8737,Positivo
+"Disgusting service, rude staff and no refund given",Negativo,disgusting service rude staff and no refund given,0.0,0.632,0.368,-0.8225,Negativo
+"Broken on arrival, seller refused to help me",Negativo,broken on arrival seller refused to help me,0.208,0.408,0.385,-0.3818,Negativo
+"Super satisfied with this purchase, very good",Positivo,super satisfied with this purchase very good,0.712,0.0,0.288,0.8718,Positivo
+"Do not buy this, total scam and waste of money",Negativo,do not buy this total scam and waste of money,0.0,0.469,0.531,-0.7939,Negativo
+So happy with my order! Will definitely buy again,Positivo,so happy with my order will definitely buy again,0.489,0.0,0.511,0.7713,Positivo
+"Great customer service and fast shipping, very happy",Positivo,great customer service and fast shipping very happy,0.574,0.0,0.426,0.8439,Positivo
+"Great customer service and fast shipping, very happy",Positivo,great customer service and fast shipping very happy,0.574,0.0,0.426,0.8439,Positivo
+"Do not buy this, total scam and waste of money",Negativo,do not buy this total scam and waste of money,0.0,0.469,0.531,-0.7939,Negativo
+"Broken on arrival, seller refused to help me",Negativo,broken on arrival seller refused to help me,0.208,0.408,0.385,-0.3818,Negativo
+"Never again, worst online shopping experience ever",Negativo,never again worst online shopping experience ever,0.354,0.0,0.646,0.5096,Positivo
+"Terrible product, broke after just two days of use",Negativo,terrible product broke after just two days of use,0.0,0.457,0.543,-0.7096,Negativo
+"This exceeded all my expectations, wonderful experience",Positivo,this exceeded all my expectations wonderful experience,0.381,0.0,0.619,0.5719,Positivo
+"Great customer service and fast shipping, very happy",Positivo,great customer service and fast shipping very happy,0.574,0.0,0.426,0.8439,Positivo
+"I love this product, absolutely amazing quality!",Positivo,i love this product absolutely amazing quality,0.624,0.0,0.376,0.8516,Positivo
+"Amazing product, my family loves it so much",Positivo,amazing product my family loves it so much,0.556,0.0,0.444,0.8176,Positivo
+"Completely useless, does not work at all period",Negativo,completely useless does not work at all period,0.0,0.306,0.694,-0.4754,Negativo
+"Amazing product, my family loves it so much",Positivo,amazing product my family loves it so much,0.556,0.0,0.444,0.8176,Positivo
+"Incredible service, will be back for more soon",Positivo,incredible service will be back for more soon,0.0,0.0,1.0,0.0,Neutro
+"Do not buy this, total scam and waste of money",Negativo,do not buy this total scam and waste of money,0.0,0.469,0.531,-0.7939,Negativo
+So happy with my order! Will definitely buy again,Positivo,so happy with my order will definitely buy again,0.489,0.0,0.511,0.7713,Positivo
+Excellent quality and great value for the price,Positivo,excellent quality and great value for the price,0.671,0.0,0.329,0.8807,Positivo
+"Do not buy this, total scam and waste of money",Negativo,do not buy this total scam and waste of money,0.0,0.469,0.531,-0.7939,Negativo
+"Very bad quality, nothing like the photos shown",Negativo,very bad quality nothing like the photos shown,0.0,0.496,0.504,-0.7098,Negativo
+"Incredible service, will be back for more soon",Positivo,incredible service will be back for more soon,0.0,0.0,1.0,0.0,Neutro
+"This exceeded all my expectations, wonderful experience",Positivo,this exceeded all my expectations wonderful experience,0.381,0.0,0.619,0.5719,Positivo
+"Completely useless, does not work at all period",Negativo,completely useless does not work at all period,0.0,0.306,0.694,-0.4754,Negativo
+"Very bad quality, nothing like the photos shown",Negativo,very bad quality nothing like the photos shown,0.0,0.496,0.504,-0.7098,Negativo
+"Awful customer service, they never responded to me",Negativo,awful customer service they never responded to me,0.0,0.3,0.7,-0.4588,Negativo
+"Amazing product, my family loves it so much",Positivo,amazing product my family loves it so much,0.556,0.0,0.444,0.8176,Positivo
+"Very bad quality, nothing like the photos shown",Negativo,very bad quality nothing like the photos shown,0.0,0.496,0.504,-0.7098,Negativo
+"Outstanding quality, worth every penny spent here",Positivo,outstanding quality worth every penny spent here,0.541,0.0,0.459,0.7096,Positivo
+"Fantastic product, exactly as described and beautiful",Positivo,fantastic product exactly as described and beautiful,0.6,0.0,0.4,0.8176,Positivo
+"Broken on arrival, seller refused to help me",Negativo,broken on arrival seller refused to help me,0.208,0.408,0.385,-0.3818,Negativo
+"Worst purchase ever, complete waste of my money",Negativo,worst purchase ever complete waste of my money,0.0,0.535,0.465,-0.7845,Negativo
+"Perfect gift, arrived on time and well packaged",Positivo,perfect gift arrived on time and well packaged,0.635,0.0,0.365,0.8271,Positivo
+"Terrible product, broke after just two days of use",Negativo,terrible product broke after just two days of use,0.0,0.457,0.543,-0.7096,Negativo
+"Very bad quality, nothing like the photos shown",Negativo,very bad quality nothing like the photos shown,0.0,0.496,0.504,-0.7098,Negativo
+"Awful customer service, they never responded to me",Negativo,awful customer service they never responded to me,0.0,0.3,0.7,-0.4588,Negativo
+Product arrived damaged and packaging was destroyed,Negativo,product arrived damaged and packaging was destroyed,0.0,0.55,0.45,-0.7269,Negativo
+Excellent quality and great value for the price,Positivo,excellent quality and great value for the price,0.671,0.0,0.329,0.8807,Positivo
+"Great customer service and fast shipping, very happy",Positivo,great customer service and fast shipping very happy,0.574,0.0,0.426,0.8439,Positivo
+So happy with my order! Will definitely buy again,Positivo,so happy with my order will definitely buy again,0.489,0.0,0.511,0.7713,Positivo
+"Horrible experience, took weeks to arrive broken",Negativo,horrible experience took weeks to arrive broken,0.0,0.569,0.431,-0.765,Negativo
+"Worst purchase ever, complete waste of my money",Negativo,worst purchase ever complete waste of my money,0.0,0.535,0.465,-0.7845,Negativo
+"Awful customer service, they never responded to me",Negativo,awful customer service they never responded to me,0.0,0.3,0.7,-0.4588,Negativo
+"Very bad quality, nothing like the photos shown",Negativo,very bad quality nothing like the photos shown,0.0,0.496,0.504,-0.7098,Negativo
+"Disgusting service, rude staff and no refund given",Negativo,disgusting service rude staff and no refund given,0.0,0.632,0.368,-0.8225,Negativo
+"The product works perfectly, happy customer here",Positivo,the product works perfectly happy customer here,0.612,0.0,0.388,0.836,Positivo
+Extremely disappointed with this purchase overall,Negativo,extremely disappointed with this purchase overall,0.0,0.404,0.596,-0.5256,Negativo
+"Incredible service, will be back for more soon",Positivo,incredible service will be back for more soon,0.0,0.0,1.0,0.0,Neutro
+"Poor quality materials, fell apart immediately after",Negativo,poor quality materials fell apart immediately after,0.0,0.341,0.659,-0.4767,Negativo
+"Poor quality materials, fell apart immediately after",Negativo,poor quality materials fell apart immediately after,0.0,0.341,0.659,-0.4767,Negativo
+"Disgusting service, rude staff and no refund given",Negativo,disgusting service rude staff and no refund given,0.0,0.632,0.368,-0.8225,Negativo
+"This exceeded all my expectations, wonderful experience",Positivo,this exceeded all my expectations wonderful experience,0.381,0.0,0.619,0.5719,Positivo
+"I love this product, absolutely amazing quality!",Positivo,i love this product absolutely amazing quality,0.624,0.0,0.376,0.8516,Positivo
+"Amazing product, my family loves it so much",Positivo,amazing product my family loves it so much,0.556,0.0,0.444,0.8176,Positivo
+"The product works perfectly, happy customer here",Positivo,the product works perfectly happy customer here,0.612,0.0,0.388,0.836,Positivo
+"Best purchase I've made this year, highly recommend!",Positivo,best purchase ive made this year highly recommend,0.538,0.0,0.462,0.7902,Positivo
+Absolutely love it! Best decision I have made,Positivo,absolutely love it best decision i have made,0.599,0.0,0.401,0.8737,Positivo
+"The product works perfectly, happy customer here",Positivo,the product works perfectly happy customer here,0.612,0.0,0.388,0.836,Positivo
+So happy with my order! Will definitely buy again,Positivo,so happy with my order will definitely buy again,0.489,0.0,0.511,0.7713,Positivo
+"Outstanding quality, worth every penny spent here",Positivo,outstanding quality worth every penny spent here,0.541,0.0,0.459,0.7096,Positivo
+"Poor quality materials, fell apart immediately after",Negativo,poor quality materials fell apart immediately after,0.0,0.341,0.659,-0.4767,Negativo
+So happy with my order! Will definitely buy again,Positivo,so happy with my order will definitely buy again,0.489,0.0,0.511,0.7713,Positivo
+"Best purchase I've made this year, highly recommend!",Positivo,best purchase ive made this year highly recommend,0.538,0.0,0.462,0.7902,Positivo
+Really impressed with the quality and fast delivery,Positivo,really impressed with the quality and fast delivery,0.326,0.0,0.674,0.5256,Positivo
+"Very disappointed, not as described and poor quality",Negativo,very disappointed not as described and poor quality,0.0,0.52,0.48,-0.7574,Negativo
+"The product works perfectly, happy customer here",Positivo,the product works perfectly happy customer here,0.612,0.0,0.388,0.836,Positivo
+"The product works perfectly, happy customer here",Positivo,the product works perfectly happy customer here,0.612,0.0,0.388,0.836,Positivo
+"Very disappointed, not as described and poor quality",Negativo,very disappointed not as described and poor quality,0.0,0.52,0.48,-0.7574,Negativo
+"Do not buy this, total scam and waste of money",Negativo,do not buy this total scam and waste of money,0.0,0.469,0.531,-0.7939,Negativo
+Excellent quality and great value for the price,Positivo,excellent quality and great value for the price,0.671,0.0,0.329,0.8807,Positivo
+"Worst purchase ever, complete waste of my money",Negativo,worst purchase ever complete waste of my money,0.0,0.535,0.465,-0.7845,Negativo
+"Awful customer service, they never responded to me",Negativo,awful customer service they never responded to me,0.0,0.3,0.7,-0.4588,Negativo
+"Perfect gift, arrived on time and well packaged",Positivo,perfect gift arrived on time and well packaged,0.635,0.0,0.365,0.8271,Positivo
+"Outstanding quality, worth every penny spent here",Positivo,outstanding quality worth every penny spent here,0.541,0.0,0.459,0.7096,Positivo
+"Do not buy this, total scam and waste of money",Negativo,do not buy this total scam and waste of money,0.0,0.469,0.531,-0.7939,Negativo
+"Do not buy this, total scam and waste of money",Negativo,do not buy this total scam and waste of money,0.0,0.469,0.531,-0.7939,Negativo
+Terrible smell and the color was completely wrong,Negativo,terrible smell and the color was completely wrong,0.0,0.52,0.48,-0.7574,Negativo
+Extremely disappointed with this purchase overall,Negativo,extremely disappointed with this purchase overall,0.0,0.404,0.596,-0.5256,Negativo
+Product arrived damaged and packaging was destroyed,Negativo,product arrived damaged and packaging was destroyed,0.0,0.55,0.45,-0.7269,Negativo
+"The product works perfectly, happy customer here",Positivo,the product works perfectly happy customer here,0.612,0.0,0.388,0.836,Positivo
+"This exceeded all my expectations, wonderful experience",Positivo,this exceeded all my expectations wonderful experience,0.381,0.0,0.619,0.5719,Positivo
+"Poor quality materials, fell apart immediately after",Negativo,poor quality materials fell apart immediately after,0.0,0.341,0.659,-0.4767,Negativo
+"Broken on arrival, seller refused to help me",Negativo,broken on arrival seller refused to help me,0.208,0.408,0.385,-0.3818,Negativo
+"Fantastic product, exactly as described and beautiful",Positivo,fantastic product exactly as described and beautiful,0.6,0.0,0.4,0.8176,Positivo
+"Poor quality materials, fell apart immediately after",Negativo,poor quality materials fell apart immediately after,0.0,0.341,0.659,-0.4767,Negativo
+"Very bad quality, nothing like the photos shown",Negativo,very bad quality nothing like the photos shown,0.0,0.496,0.504,-0.7098,Negativo
+"Disgusting service, rude staff and no refund given",Negativo,disgusting service rude staff and no refund given,0.0,0.632,0.368,-0.8225,Negativo
+"Worst purchase ever, complete waste of my money",Negativo,worst purchase ever complete waste of my money,0.0,0.535,0.465,-0.7845,Negativo
+Excellent quality and great value for the price,Positivo,excellent quality and great value for the price,0.671,0.0,0.329,0.8807,Positivo
+"Incredible service, will be back for more soon",Positivo,incredible service will be back for more soon,0.0,0.0,1.0,0.0,Neutro
+"Very disappointed, not as described and poor quality",Negativo,very disappointed not as described and poor quality,0.0,0.52,0.48,-0.7574,Negativo
+"Perfect gift, arrived on time and well packaged",Positivo,perfect gift arrived on time and well packaged,0.635,0.0,0.365,0.8271,Positivo
+"Super satisfied with this purchase, very good",Positivo,super satisfied with this purchase very good,0.712,0.0,0.288,0.8718,Positivo
+Product arrived damaged and packaging was destroyed,Negativo,product arrived damaged and packaging was destroyed,0.0,0.55,0.45,-0.7269,Negativo
+"Best purchase I've made this year, highly recommend!",Positivo,best purchase ive made this year highly recommend,0.538,0.0,0.462,0.7902,Positivo
+"Never again, worst online shopping experience ever",Negativo,never again worst online shopping experience ever,0.354,0.0,0.646,0.5096,Positivo
+"Outstanding quality, worth every penny spent here",Positivo,outstanding quality worth every penny spent here,0.541,0.0,0.459,0.7096,Positivo
+"Horrible experience, took weeks to arrive broken",Negativo,horrible experience took weeks to arrive broken,0.0,0.569,0.431,-0.765,Negativo
+Absolutely love it! Best decision I have made,Positivo,absolutely love it best decision i have made,0.599,0.0,0.401,0.8737,Positivo
+"Best purchase I've made this year, highly recommend!",Positivo,best purchase ive made this year highly recommend,0.538,0.0,0.462,0.7902,Positivo
+"Terrible product, broke after just two days of use",Negativo,terrible product broke after just two days of use,0.0,0.457,0.543,-0.7096,Negativo
+"Super satisfied with this purchase, very good",Positivo,super satisfied with this purchase very good,0.712,0.0,0.288,0.8718,Positivo
